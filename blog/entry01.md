@@ -9,7 +9,9 @@ I have chosen to look into the nuclear energy industry for this project. During 
 
 Some of the articles I've looked at:
 [Pressurized Water Reactors, Wikipedia](https://en.wikipedia.org/wiki/Pressurized_water_reactor)
+
 [Boiling Water Reactors, Wikipedia](https://en.wikipedia.org/wiki/Boiling_water_reactor)
+
 [BWR Reactor Safety Systems](https://en.wikipedia.org/wiki/Boiling_water_reactor_safety_systems#Reactor_Protection_System_(RPS))
 
 [Next](entry02.md)
