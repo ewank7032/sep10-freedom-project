@@ -21,7 +21,7 @@ I did not manage to find some suitable backup topics unfortunately.
 
 ## EDP
 
-Currently in the first stage of the engineering design process where I define the problem. I've definitely noticed that when I shared my topic with some of my friends and family, they were incredibly concerned with the safety of nuclear power plants. Theres one problem. Some people are simply not informed enough on the safety of nuclear power.
+Currently in the first stage of the engineering design process where I define the problem. I've definitely noticed that when I shared my topic with some of my friends and family, they were incredibly concerned with the safety of nuclear power plants. Theres one problem. Some people are simply not informed enough on the safety of nuclear power due to past incidents.
 
 # Skills
 
