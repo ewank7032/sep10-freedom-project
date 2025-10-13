@@ -15,17 +15,13 @@ Currently in the first stage of the engineering design process where I define th
 
 # Skills
 
-#### Problem Decomposition
-
-I realized I didn't have a straightforward answer for step 1 of the EDP. What problem could there be? But I managed to break down the task, looking for the problems there could possibly be, and remembered some concerns that people have had about my topic.
-
 #### Time Management
 
-I was warned this would not be completable if I procrastinated until the last day, so I had to set aside some time every once in a while in the week whether I liked it or not to write this entry instead of being unproductive. It wasn't so bad.
+I was warned this would not be completable if I procrastinated until the last day, so I had to set aside some time every once in a while in the week whether I liked it or not to write this entry instead of being unproductive. It wasn't so bad, every once in a while it feels nice for me to force my way through procrastination so I can actually feel relieved going through my day.
 
 #### Consideration
 
-Proper formatting of this entry is a reminder to me that other people will be reading this entry, not just myself, and they won't know where all the content is in the back of their minds.
+Having to follow a format for writing this entry is a reminder to me that other people will be reading this entry, not just myself, and they won't know where all the content is in the back of their minds.
 
 [Next](entry02.md)
 
