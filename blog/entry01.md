@@ -23,6 +23,10 @@ I was warned this would not be completable if I procrastinated until the last da
 
 Having to follow a format for writing this entry is a reminder to me that other people will be reading this entry, not just myself, and they won't know where all the content is in the back of their minds.
 
+#### Summary
+
+Overall, I'm looking forward to dive deeper into this field and confirm whether this field fits a person like me or not, and also informing more people on its safety and past incidents that were mostly human error-related that may have shaped peoples viewpoints to be like this.
+
 [Next](entry02.md)
 
 [Home](../README.md)
