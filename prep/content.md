@@ -20,9 +20,9 @@ Topic: **X**
     * Same details as above.
 * University of Manchester Nuclear Reactor Simulation
   * [Link](https://dalton-nrs.manchester.ac.uk/)
-  * Gives you a very barebones feel of operating a nuclear reactor specifically a Pressurized Water Reactor.
-  * Provides some explanation of operations.
-  * Has a system for you to meet power demands.
+    * Gives you a very barebones feel of operating a nuclear reactor specifically a Pressurized Water Reactor.
+    * Provides some explanation of operations.
+    * Has a system for you to meet power demands.
 
 ## Part B: possible future technology
 * Idea
