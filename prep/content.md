@@ -7,6 +7,8 @@ Topic: **Nuclear Energy Industry**
 * The software here will give you a brief overview of nuclear reactors.
 
 ## Part A: existing technology
+### Software
+
 * Energy Encyclopedia
   * This site contains many 3D Models of nuclear reactors with great detail in explanations.
   * We'll be focusing on the two main types that are in use in the commercial nuclear power industry.
@@ -23,6 +25,8 @@ Topic: **Nuclear Energy Industry**
   * Gives you a very barebones feel of operating a nuclear reactor specifically a Pressurized Water Reactor.
   * Provides you with a tour of the reactor.
   * Has a system for you to meet power demands.
+
+### Hardware
 
 ## Part B: possible future technology
 * Idea
