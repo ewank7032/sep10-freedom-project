@@ -29,7 +29,17 @@ Topic: **Nuclear Energy Industry**
 
 ### Hardware
 
-* 
+* Reactor Protection System
+  * 
+  * Shuts down the nuclear reactor to protect it if abnormal operating conditions are reached. Examples of abnormal conditions in a BWR:
+    * Low reactor water level.
+      * Water is about to drop below the fuel inside the reactor and uncover them, which can cause them to melt).
+    * High reactor pressure vessel (RPV) pressure.
+      * The RPV integrity will degrade if pressure continues rising.
+    * Loss of offsite power (LOOP).
+      * LOOP will cut the power to many crucial systems, but will also cause all RPS relays to open, shutting the reactor down immediately.
+    * Turbine trip at high power.
+      * The steam turbine tripping at high power will suddenly stop the steam flow to it, and the steam will accumulate pressure in the RPV instead.
 
 ## Part B: possible future technology
 * Idea
