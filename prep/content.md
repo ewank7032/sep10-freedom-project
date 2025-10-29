@@ -5,6 +5,7 @@ Topic: **Nuclear Energy Industry**
 * Most highly-fidelity software used by nuclear reactor operators are exclusive and cannot be accessed.
   * Highly detailed software for personal use is rare simply because operation of a nuclear reactor is boring, and some information may be classified.
 * The software here will give you a brief overview of nuclear reactors.
+* Most hardware is available with sufficient information to cite.
 
 ## Part A: existing technology
 ### Software
@@ -27,6 +28,8 @@ Topic: **Nuclear Energy Industry**
   * Has a system for you to meet power demands.
 
 ### Hardware
+
+* 
 
 ## Part B: possible future technology
 * Idea
