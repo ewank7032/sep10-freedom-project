@@ -29,9 +29,10 @@ Topic: **Nuclear Energy Industry**
 
 ### Hardware
 
-* Reactor Protection System
-  * 
-  * Shuts down the nuclear reactor to protect it if abnormal operating conditions are reached. Examples of abnormal conditions in a BWR:
+* Reactor Protection System (RPS)
+  * The system that absolutely ensures that a nuclear reactor is safe.
+  * The system works using hardware relays, which open during abnormal conditions.
+  * Examples of abnormal conditions in a BWR: [RPS Section](https://en.wikipedia.org/wiki/Boiling_water_reactor_safety_systems#Reactor_Protection_System_(RPS))
     * Low reactor water level.
       * Water is about to drop below the fuel inside the reactor and uncover them, which can cause them to melt).
     * High reactor pressure vessel (RPV) pressure.
@@ -40,6 +41,7 @@ Topic: **Nuclear Energy Industry**
       * LOOP will cut the power to many crucial systems, but will also cause all RPS relays to open, shutting the reactor down immediately.
     * Turbine trip at high power.
       * The steam turbine tripping at high power will suddenly stop the steam flow to it, and the steam will accumulate pressure in the RPV instead.
+   * When RPS relays open, they cut the power to the reactor control rod system, causing the control rods to be forced into the reactor and stop the reaction. [Page 1](https://nrcoe.inl.gov/publicdocs/SystemStudies/rps-bw-description.pdf)
 
 ## Part B: possible future technology
 * Idea
