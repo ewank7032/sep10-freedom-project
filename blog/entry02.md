@@ -1,4 +1,4 @@
-# Entry 1: Deciding on a Topic (Nuclear Energy Industry)
+# Entry 2: Gathering Info
 ##### 11/06/25
 
 ---
