@@ -13,9 +13,23 @@ With some researching, I found some software that can be used to educate people 
 
 ## Engineering Design Process (EDP)
 
-
+Currently, I am on the second step of the Engineering Design Process, or EDP, where I research the problem. Because the problem is that some people are not informed of the safety of nuclear power and the effectiveness of nuclear power, I looked for software that they could look at in order to get a grasp of how nuclear power plants work. Then I looked for hardware that protects said power plants so people can understand their safety. The next step of the EDP will be to brainstorm solutions, and in that case, I'll have to think of how to put together a website to inform people about nuclear power plants.
 
 ## Skills
+
+Two skills I've picked up during the research is **how to read documentation** and **how to Google.**
+
+#### How to read documentation
+
+One of the sources for hardware was not a normal informative article. It was a [system description document](https://nrcoe.inl.gov/publicdocs/SystemStudies/rps-bw-description.pdf) describing the functions of the RPS and used unfamiliar terms. I learned to better sort through the intimidatingly long passages with unfamiliar terms by skimming through pages for terms I knew until I reached a page which had what I needed and looked through the titles.
+
+#### How to Google
+
+I better improved my knowledge on searching by varying my terms as they could get different results. For example, instead of going straight for putting the word "software" in my search, I tried terms such as "simulations" or "models" which brought me better educational software rather than software I couldn't actually use or get sufficient information for.
+
+## Next Steps
+
+I'm guessing the next step is to plan out a website for this Freedom Project, since the next EDP step is brainstorming how to better inform people of my topic/industry, and I have decent hopes for that.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
