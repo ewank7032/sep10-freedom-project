@@ -25,7 +25,7 @@ One of the sources for hardware was not a normal informative article. It was a [
 
 #### How to Google
 
-I better improved my knowledge on searching by varying my terms as they could get different results. For example, instead of going straight for putting the word "software" in my search, I tried terms such as "simulations" or "models" which brought me better educational software rather than software I couldn't actually use or get sufficient information for.
+I better improved my knowledge on searching by varying my terms as they could get different results. For example, instead of going straight for putting the word "software" in my search, I tried terms such as "simulations" or "models" which brought me better educational software rather than professional software I couldn't actually use or get sufficient information for.
 
 ## Next Steps
 
