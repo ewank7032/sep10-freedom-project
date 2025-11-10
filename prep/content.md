@@ -3,7 +3,7 @@ Topic: **Nuclear Energy Industry**
 
 ## Overview/Introduction/Context
 
-The nuclear energy industry is a controversial topic. Some believe that the downsides outweigh the benefits, while some people like me believe that nuclear energy's benefits outweigh the downsides. Many people who believe nuclear energy is unsafe usually think so because of past incidents such as the 1986 Chernobyl Disaster or the 2011 Fukushima Disaster. This project is my attempt to convey how nuclear reactors today are exponentially safer than they were in the past, and how the industry has learned from mistakes.
+The nuclear energy industry is a controversial topic. Some believe that the downsides outweigh the benefits, while some people like me believe that nuclear energy's benefits outweigh the downsides. Many people who believe nuclear energy is unsafe usually think so because of past incidents such as the 1986 Chernobyl Disaster or the 2011 Fukushima Disaster. Some less common but still major reasons for going against nuclear energy is the problem of waste storage. This project is my attempt to convey how nuclear reactors today are exponentially safer than they were in the past, and how the industry has learned from mistakes.
 
 ## Part A: existing technology
 ### Software
