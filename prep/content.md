@@ -2,10 +2,8 @@
 Topic: **Nuclear Energy Industry**
 
 ## Overview/Introduction/Context
-* Most highly-fidelity software used by nuclear reactor operators are exclusive and cannot be accessed.
-  * Highly detailed software for personal use is rare simply because operation of a nuclear reactor is boring, and some information may be classified.
-* The software here will give you a brief overview of nuclear reactors.
-* Most hardware is available with sufficient information to cite.
+
+The nuclear energy industry is a controversial topic. Some believe that the downsides outweigh the benefits, while some people like me believe that nuclear energy's benefits outweigh the downsides. Many people who believe nuclear energy is unsafe usually think so because of past incidents such as the 1986 Chernobyl Disaster or the 2011 Fukushima Disaster. This project is my attempt to convey how nuclear reactors today are exponentially safer than they were in the past, and how the industry has learned from mistakes.
 
 ## Part A: existing technology
 ### Software
