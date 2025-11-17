@@ -7,8 +7,9 @@ The nuclear energy industry is a controversial topic. Some believe that the down
 
 Here there will be some software for YOU to try, and some explanation of safety hardware in nuclear power plants.
 
-## Part A: existing technology
-### Software
+## Simple
+
+Overview of Nuclear Reactors
 
 * Energy Encyclopedia
   * This site contains many 3D Models of nuclear reactors with great detail in explanations.
@@ -21,13 +22,11 @@ Here there will be some software for YOU to try, and some explanation of safety 
   * Second and second most common, the Boiling Water Reactor. [Link](https://3d.energyencyclopedia.com/npp-bwr)
     * [Image](https://www.energyencyclopedia.com/cache/img/b-a/data-web-online-3d-models-new-bwr-npp.fitbox.x800.y600.r0.q85.nr0.me2.jpg.webp)
     * Same details as above.
-* University of Manchester Nuclear Reactor Simulation [Link](https://dalton-nrs.manchester.ac.uk/)
-  * [Image](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcathaltest1.files.wordpress.com%2F2015%2F11%2Fnuclear-simulator-dalton.jpg&sp=1760980335T8f79c4d6a070543cc0ee5d81675aa99be333b33935341ee65104fdb9566522b3)
-  * Gives you a very barebones feel of operating a nuclear reactor specifically a Pressurized Water Reactor.
-  * Provides you with a tour of the reactor.
-  * Has a system for you to meet power demands.
 
-### Hardware
+
+## Complex
+
+Deeper Systems and Software
 
 * Reactor Protection System (RPS)
   * The system that absolutely ensures that a nuclear reactor is safe.
@@ -42,7 +41,11 @@ Here there will be some software for YOU to try, and some explanation of safety 
     * Turbine trip at high power.
       * The steam turbine tripping at high power will suddenly stop the steam flow to it, and the steam will accumulate pressure in the RPV instead.
    * When RPS relays open, they cut the power to the reactor control rod system, causing the control rods to be forced into the reactor and stop the reaction. [Page 1](https://nrcoe.inl.gov/publicdocs/SystemStudies/rps-bw-description.pdf)
-
+* University of Manchester Nuclear Reactor Simulation [Link](https://dalton-nrs.manchester.ac.uk/)
+  * [Image](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcathaltest1.files.wordpress.com%2F2015%2F11%2Fnuclear-simulator-dalton.jpg&sp=1760980335T8f79c4d6a070543cc0ee5d81675aa99be333b33935341ee65104fdb9566522b3)
+  * Gives you a very barebones feel of operating a nuclear reactor specifically a Pressurized Water Reactor.
+  * Provides you with a tour of the reactor.
+  * Has a system for you to meet power demands.
 ## Part B: possible future technology
 * Idea
   * Detail
