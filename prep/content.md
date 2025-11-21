@@ -47,5 +47,8 @@ Here there will be some software for YOU to try, and some explanation of safety 
   * Provides you with a tour of the reactor.
   * Has a system for you to meet power demands.
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Fusion Reactors w/ Positive Net Energy
+  * If fusion reactors could make more power than it consumes, it will be a huge step forward for the nuclear energy industry.
+  * Currently, most fusion reactors consume more energy than they produce, and maintaining a positive net energy is also difficult.
+  * Fusion reactors are the future of nuclear energy. They are also incredibly safe due to the fact malfunctions will instantly stop the reaction.
+
