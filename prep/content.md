@@ -49,6 +49,11 @@ Here there will be some software for YOU to try, and some explanation of safety 
 ## Part B: possible future technology
 * Fusion Reactors w/ Positive Net Energy
   * If fusion reactors could make more power than it consumes, it will be a huge step forward for the nuclear energy industry.
-  * Currently, most fusion reactors consume more energy than they produce, and maintaining a positive net energy is also difficult.
   * Fusion reactors are the future of nuclear energy. They are also incredibly safe due to the fact malfunctions will instantly stop the reaction.
+  * Currently existing fusion reactors include:
+    * ITER Tokamak [Image](https://imageio.forbes.com/blogs-images/arielcohen/files/2019/01/jet_tokamak_plasma_overlay_1.jpg?height=495&width=711&fit=bounds)
+    * Stellarator [Image](https://cdn.arstechnica.net/wp-content/uploads/2017/04/w7x_torus-scaled.jpg)
+  * These are current technologies, but they cannot produce power as they consume more power than they produce, and they are simply research reactors at the moment. In the future, there could be fusion reactors that can produce a net positive power.
+
+
 
