@@ -13,7 +13,7 @@ I can't design a whole reactor design of course, so I just went for fusion react
 
 ## Engineering Design Process (EDP)
 
-
+Currently on the brainstorming part of the Engineering Design Process. I expected to be brainstorming a website but instead I had to brainstorm ideas for future technology of this topic somewhat from scratch. Couldn't exactly do that for my topic I guess so I just went with what already exists but has extremely high potential in the future.
 
 ## Skills
 
