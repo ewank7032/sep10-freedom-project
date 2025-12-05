@@ -29,7 +29,7 @@ I better improved my knowledge on searching by varying my terms as they could ge
 
 ## Next Steps
 
-I'm guessing the next step is to plan out a website for this Freedom Project, since the next EDP step is brainstorming how to better inform people of my topic/industry, and I have decent hopes for that.
+The next EDP step is brainstorming how to better inform people of my topic/industry, and I have decent hopes for that.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
