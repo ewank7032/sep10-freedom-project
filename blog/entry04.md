@@ -5,7 +5,9 @@
 
 ## How I Chose & Tinkered with Bulma
 
-I chose Bulma because it advertised itself as a very easy-to-use framework. After tinkering with it, I decided it was going to be my tool since I liked the "style of coding" it has. I tried to tinker and set up a rough base for my website with it, but it really was not much. I set up a navbar with options and a barebones title screen using some premade code Bulma provided. 
+I chose Bulma because it advertised itself as a very easy-to-use framework. After tinkering with it, I decided it was going to be my tool since I liked the "style of coding" it has. I tried to tinker and set up a rough base for my website with it, but it really was not much. I set up a navbar with options and a barebones title screen using some premade code Bulma provided.
+
+![My awful code](entry04-tinkering.png)
 
 ## Sources
 
