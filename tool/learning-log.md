@@ -5,7 +5,7 @@
 ---
 
 ### 3/29/26:
-* Browsed the official Bulma documentation. Saw the cards component that may be useful for my website when I need to list out the software.[https://bulma.io/documentation/start/overview/]
+* Browsed the official Bulma documentation. Saw the cards component that may be useful for my website when I need to list out the software. [https://bulma.io/documentation/start/overview/](Bulma Documentation, Cards)
 * Tinkered in jsitor
 ```HTML
 <!DOCTYPE html>
