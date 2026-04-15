@@ -52,8 +52,14 @@
 </html>
 ```
 <img width="2543" height="1053" alt="Screenshot 2026-03-29 223657" src="https://github.com/user-attachments/assets/7d41ee98-9479-4d2d-a619-3bfcffcd7052" />
-### X/X/XX:
-* Text
+
+---
+
+### 4/15/26:
+#### How I will learn my tool.
+* Day 1: Try out more features of Bulma and figure out which would fit my website's topic best.
+* Day 2: Figure out how the class system works and the properties.
+* Day 3: Figure out how to use Bulma's responsive web design features, as I had trouble resizing a card properly while I was tinkering a while back.
 
 
 <!-- 
