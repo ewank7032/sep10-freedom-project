@@ -23,13 +23,8 @@ p {
     place-items: center;
 }
 
-#faq {
-    float: right;
-    display: flex;
-}
-
 button {
-    background-color: #7192b0;
+    background-color: #304070;
     border-radius: 10px;
     padding: 5px;
 }
