@@ -6,6 +6,50 @@
         <title>The Nuclear Energy Industry</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
         <link rel="stylesheet" href="style.css">
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                // Functions to open and close a modal
+                function openModal($el) {
+                    $el.classList.add('is-active');
+                }
+
+                function closeModal($el) {
+                    $el.classList.remove('is-active');
+                }
+
+                function closeAllModals() {
+                    (document.querySelectorAll('.modal') || []).forEach(($modal) => {
+                    closeModal($modal);
+                    });
+                }
+
+                // Add a click event on buttons to open a specific modal
+                (document.querySelectorAll('.js-modal-trigger') || []).forEach(($trigger) => {
+                    const modal = $trigger.dataset.target;
+                    const $target = document.getElementById(modal);
+
+                    $trigger.addEventListener('click', () => {
+                        openModal($target);
+                    });
+                });
+
+                // Add a click event on various child elements to close the parent modal
+                (document.querySelectorAll('.modal-background, .modal-close, .modal-card-head .delete, .modal-card-foot .button') || []).forEach(($close) => {
+                    const $target = $close.closest('.modal');
+
+                    $close.addEventListener('click', () => {
+                        closeModal($target);
+                    });
+                });
+
+                // Add a keyboard event to close all modals
+                document.addEventListener('keydown', (event) => {
+                    if(event.key === "Escape") {
+                        closeAllModals();
+                    }
+                });
+            });
+        </script>
         <nav class="navbar is-info" role="navigation" aria-label="main navigation">
             <div class="navbar-brand">
                 <a class="navbar-item" href="https://bulma.io">
@@ -55,9 +99,42 @@
         <div class="heading">
             <h1 class="title is-3">How Nuclear Reactors Work</h1>
         </div>
-        <div class="bodies">
-            <p>Before learning how nuclear reactors are safe, you probably need to know how nuclear reactors work. Nuclear reactors essentially just boil water somewhere and then uses the steam to turn a turbine generator for power. Perhaps knowing it just involves boiling water clears something up for you. We'll really only get into detail on how it boils the water.</p>
-            <p class="has-text-left">Nuclear reactors</p>
+        <div class="container">
+            <p>Before learning how nuclear reactors are safe, you probably need to know how nuclear reactors work. Nuclear reactors also just involves boiling water somewhere and then uses the steam to turn a turbine generator for power. Perhaps knowing it just involves boiling water clears something up for you. We'll really only get into detail on how it boils the water.</p>
+            <div class="grid is-col-min-18">
+                <div class="cell is-centered">
+                    <p>Without diving into anything too specific, nuclear reactors essentially just has uranium fuel rods that go through nuclear fission chain reactions to produce heat. Control rods help reduce how much heat they can release by limiting the reactions, and moderators help sustain the nuclear reaction. All of this is contained in a vessel that can handle high pressures. The Pressurized Water Reactors (PWRs), and Boiling Water Reactors (BWRs), are the two most common reactor types. For PWRs the pressure in the vessel is high to the point water cannot boil, while BWRs, boil water inside the vessel. The image on the right is a PWR (not to scale).</p>
+                </div>
+                <div class="cell is-centered" id="howitworks">
+                    <img src="../img/pwr-diagram.png" id="pwrdiagram">
+                </div>
+            </div>
+            <div class="faq">
+                <h3 class="title is-3">Questions and Misconceptions</h3>
+                <button class="js-modal-trigger" id="faq" data-target="chernobyl">
+                    What happened at Chernobyl?
+                </button>
+            </div>
+        </div>
+        <div id="chernobyl" class="modal">
+            <div class="modal-background">
+            </div>
+            <div class="modal-card">
+                <header class="modal-card-head">
+                    <p class="modal-card-title">What happened at Chernobyl?</p>
+                    <button class="delete" aria-label="close"></button>
+                </header>
+                <section class="modal-card-body">
+                    <p>On April 26, 1986, the Chernobyl disaster occurred, where unit 4 in the Chernobyl Nuclear Power Plant of Soviet Ukraine exploded, and radioactive particles were released all over the region and spread to Europe through winds. This massively lowered public trust of nuclear power, especially in Germany, as anti-nuclear movements have already been active since the 70s.</p>
+                    <img src="https://i.guim.co.uk/img/media/54e705f9edd7bfac3d4267c028ce3a2fc8abeea1/0_0_3464_2078/master/3464.jpg?width=620&dpr=1&s=none&crop=none">
+                    <p>However, it is important to understand that this is not a reflection of all nuclear power plants' safety. Chernobyl's reactor design was unstable due to cost cutting, workers were pressured into ignoring safety procedures, and the computer warning the operators to shut off the reactor was simply turned off.</p>
+                </section>
+                <footer class="modal-card-foot">
+                    <div class="buttons">
+                        <button class="button">Close</button>
+                    </div>
+                </footer>
+            </div>
         </div>
     </body>
 </html>

@@ -18,3 +18,18 @@ p {
     padding: 25px;
     text-align: center;
 }
+
+#howitworks {
+    place-items: center;
+}
+
+#faq {
+    float: right;
+    display: flex;
+}
+
+button {
+    background-color: #7192b0;
+    border-radius: 10px;
+    padding: 5px;
+}
