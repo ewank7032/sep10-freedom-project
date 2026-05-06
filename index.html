@@ -100,18 +100,24 @@
             <h1 class="title is-3">How Nuclear Reactors Work</h1>
         </div>
         <div class="container">
-            <p>Before learning how nuclear reactors are safe, you probably need to know how nuclear reactors work. Nuclear reactors also just involves boiling water somewhere and then uses the steam to turn a turbine generator for power. Perhaps knowing it just involves boiling water clears something up for you. We'll really only get into detail on how it boils the water.</p>
+            <p>Nuclear reactors just involve boiling water somewhere and then uses the steam to turn a turbine generator to produce power. Perhaps knowing it just involves boiling water makes the concept of a nuclear reactor way less intimidating.</p>
             <div class="grid is-col-min-18">
                 <div class="cell is-centered">
-                    <p>Without diving into anything too specific, nuclear reactors essentially just has uranium fuel rods that go through nuclear fission chain reactions to produce heat. Control rods help reduce how much heat they can release by limiting the reactions, and moderators help sustain the nuclear reaction. All of this is contained in a vessel that can handle high pressures. The Pressurized Water Reactors (PWRs), and Boiling Water Reactors (BWRs), are the two most common reactor types. For PWRs the pressure in the vessel is high to the point water cannot boil, while BWRs, boil water inside the vessel. The image on the right is a PWR (not to scale).</p>
+                    <p>Without diving into anything too specific, nuclear reactors essentially just has uranium fuel rods that go through nuclear fission chain reactions to produce heat. Control rods help reduce how much heat they can release by limiting the reactions, and moderators help sustain the nuclear reaction. All of this is contained in a vessel that can handle high pressures. The Pressurized Water Reactors (PWRs), and Boiling Water Reactors (BWRs), are the two most common reactor types. For PWRs the pressure in the vessel is high to the point water cannot boil, while heat is transferred elsewhere to heat a steam generator, or in simple terms, a water boiler. BWRs on the other hand, boil water inside the vessel, and steam is routed directly to the turbine. The image here is a PWR (not to scale).</p>
                 </div>
                 <div class="cell is-centered" id="howitworks">
-                    <img src="../img/pwr-diagram.png" id="pwrdiagram">
+                    <img src="../img/pwr-diagram.png" class="has-text-centered" id="pwrdiagram">
                 </div>
             </div>
-            <h3 class="title is-3">Questions and Misconceptions</h3>
+            <h3 class="title is-3 has-text-centered">Questions and Misconceptions</h3>
+            <button class="js-modal-trigger" id="faq" data-target="nuclearbomb">
+                Can nuclear reactors explode like nuclear bombs?
+            </button>
             <button class="js-modal-trigger" id="faq" data-target="chernobyl">
                 What happened at Chernobyl?
+            </button>
+            <button class="js-modal-trigger" id="faq" data-target="fukushima">
+                What happened at Fukushima?
             </button>
         </div>
         <div class="heading">
@@ -141,7 +147,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    3D model of a Pressurized Water Reactor (PWR) with many components explorable with descriptions.
+                                    3D model of a Pressurized Water Reactor (PWR) and its loop with many components explorable with descriptions.
                                 </div>
                             </div>
                         </div>
@@ -168,7 +174,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    3D model of a Boiling Water Reactor (BWR) with many components explorable with descriptions.
+                                    3D model of a Boiling Water Reactor (BWR) and its loop with many components explorable with descriptions.
                                 </div>
                             </div>
                         </div>
@@ -203,6 +209,25 @@
                 </div>
             </div>
         </div>
+        <div class="heading">
+            <h3 class="title is-3">Existing Technologies</h3>
+            <h4 class="subtitle is-4">Hardware</h4>
+        </div>
+        <div id="nuclearbomb" class="modal">
+            <div class="modal-background">
+            </div>
+            <div class="modal-card">
+                <header class="modal-card-head">
+                    <p class="modal-card-title">Can nuclear reactors explode like nuclear bombs?</p>
+                    <button class="delete" aria-label="close"></button>
+                </header>
+                <section class="modal-card-body">
+                    <p>In short, no.</p>
+                    <img src="https://i.guim.co.uk/img/media/54e705f9edd7bfac3d4267c028ce3a2fc8abeea1/0_0_3464_2078/master/3464.jpg?width=620&dpr=1&s=none&crop=none">
+                    <p>Nuclear bombs require a very precise and sophisticated mechanism to trigger a nuclear explosion. Nuclear reactors, being meant to make power and not for maximum destruction potential, do not have the complex sophisticated mechanisms to trigger nuclear explosions.</p>
+                </section>
+            </div>
+        </div>
         <div id="chernobyl" class="modal">
             <div class="modal-background">
             </div>
@@ -216,11 +241,21 @@
                     <img src="https://i.guim.co.uk/img/media/54e705f9edd7bfac3d4267c028ce3a2fc8abeea1/0_0_3464_2078/master/3464.jpg?width=620&dpr=1&s=none&crop=none">
                     <p>However, it is important to understand that this is not a reflection of all nuclear power plants' safety. Chernobyl's reactor design was unstable due to cost cutting, workers were pressured into ignoring safety procedures, and the computer warning the operators to shut off the reactor was simply turned off.</p>
                 </section>
-                <footer class="modal-card-foot">
-                    <div class="buttons">
-                        <button class="button">Close</button>
-                    </div>
-                </footer>
+            </div>
+        </div>
+        <div id="chernobyl" class="modal">
+            <div class="modal-background">
+            </div>
+            <div class="modal-card">
+                <header class="modal-card-head">
+                    <p class="modal-card-title">What happened at Chernobyl?</p>
+                    <button class="delete" aria-label="close"></button>
+                </header>
+                <section class="modal-card-body">
+                    <p>On April 26, 1986, the Chernobyl disaster occurred, where unit 4 in the Chernobyl Nuclear Power Plant of Soviet Ukraine exploded, and radioactive particles were released all over the region and spread to Europe through winds. This massively lowered public trust of nuclear power, especially in Germany, as anti-nuclear movements have already been active since the 70s.</p>
+                    <img src="https://i.guim.co.uk/img/media/54e705f9edd7bfac3d4267c028ce3a2fc8abeea1/0_0_3464_2078/master/3464.jpg?width=620&dpr=1&s=none&crop=none">
+                    <p>However, it is important to understand that this is not a reflection of all nuclear power plants' safety. Chernobyl's reactor design was unstable due to cost cutting, workers were pressured into ignoring safety procedures, and the computer warning the operators to shut off the reactor was simply turned off.</p>
+                </section>
             </div>
         </div>
     </body>
