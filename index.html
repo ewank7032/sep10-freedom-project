@@ -209,7 +209,8 @@
         </div>
         <div class="content">
             <div class="container">
-                <p>Nuclear reactors are protected by a set of hardware and/or software relays, which ensures the reactor is always operating withn safe parameters. This is called the Reactor Protection System, or RPS. As abnormal conditions arise, these relays begin opening, and once enough abnormal conditions are present, all relays open to cut power to the reactor's control rods. As mentioned earlier, control rods slow the reaction, and if power is cut, they are forced into the reactor as quickly as possible.</p>
+                <h3 class="title is-3 has-text-centered">Reactor Protection System</h3>
+                <p>Nuclear reactors are protected by a set of hardware and/or software relays, which ensures the reactor is always operating withn safe parameters. This is called the Reactor Protection System, or RPS. As abnormal conditions arise, these relays will open, and once enough abnormal conditions are present, all relays open to cut power to the reactor's control rods. As mentioned earlier, control rods slow the reaction, and if power is cut, they are forced into the reactor as quickly as possible. This is called a SCRAM.</p>
                 <div class="grid is-col-min-18">
                     <div class="cell is-centered">
                         <h4 class="title is-4">Examples of Abnormal Conditions</h4>
@@ -226,7 +227,7 @@
                             <li>Steam turbine trip at high power.</li>
                             <ul>
                                 <li>The steam turbine that produces power lost connection to the grid, so the valve sending steam to it was shut.</li>
-                                <li>While the steam bypass system can allow steam to skip the turbine, it cannot handle the reactor's full power steam generation, causing a pressure and power spike, so the RPS will trip the reactor.</li>
+                                <li>Because the steam generated is no longer sent to the turbine, it will cause a rapid spike of pressure in the pressurizer (PWR) or RPV (BWR).</li>
                             </ul>
                             <li>Loss of offsite power (LOOP).</li>
                             <ul>
@@ -240,6 +241,8 @@
                         <img src="../img/rps.png" class="has-text-centered" id="pwrdiagram">
                     </div>
                 </div>
+                <h3 class="title is-3 has-text-centered">Emergency Core Cooling System</h3>
+                <p>Another set of hardware protecting nuclear reactors is the Emergency Core Cooling System, or ECCS. During a Loss Of Coolant Accident (LOCA), the reactor is SCRAMed. However, because of decay heat (heat from radioactive decay even after the ending of the nuclear chain reaction), the water level in the reactor can drop below the fuel in the reactor, uncovering them. This can cause the fuel to overheat and damage the reactor, or even cause a nuclear meltdown.</p>
             </div>
         </div>
         <div id="nuclearbomb" class="modal">
